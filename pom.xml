@@ -19,7 +19,7 @@
         <version>1.8</version>
         <executions>
           <execution>
-		<id>id.clean</id>
+	
             <phase> compile </phase>
 	<goals>
 	<goal>run</goal>
